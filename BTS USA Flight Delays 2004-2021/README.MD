@@ -2,5 +2,11 @@
 Data from Bureau of Transportation Statistics:
 https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 
-<b>Future updates:</b>
-- Label hub airports of each airline; compare airline's hub performance to non-hub performance in carrier-based delays
+Tab 1: Comparing Airports
+- Compares Delay Causes between major USA Airports.
+
+Tab 2: Delays Per Airport Year-over-Year
+- Compares delays in relation to airports and airlines, viewed 1 year at a time.
+
+Tab 3: Hub vs Non-Hub Carrier Performance
+- Carrier delays happen due to the airlines themselves. This tab compares and contrasts carrier delays in their hub airport locations vs. non-hub locations.
